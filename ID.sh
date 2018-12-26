@@ -40,7 +40,7 @@ if [ $fri = 1 ] || [ $fri = 1 ]
 then
 echo "-gunakan tool saya dengan benar-" | lolcat
 sleep 1
-echo "autor by MR_XID 2018
+echo "autor by MR_XID 2018 "
 echo " thansk to "
 echo "JATIM BLACKHAT " | lolcat
 echo "D35TR0Y SQUAD" | lolcat
@@ -66,7 +66,7 @@ echo "-kebaikan dibalas dengan kejahatan" | lolcat
 echo " 4. Orang Berkhianat Dipercaya "
 echo "-Orang-orang akan mempercayai orang-orang yang berkhianat, sedangkan orang-orang yang dapat dipercaya dianggap sebagai pengkhianat." | lolcat
 echo " 5. sekian itu aja yang yang gua sampaikan dan tunggu update tools nya lagi "
-fi
+fi 
 if [ $fri = 3 ] || [ $fri = 3 ]
 then
 echo " pengertian hukum karma bagi islam " | lolcat
@@ -96,7 +96,6 @@ sleep 1
 python hammer.py 
 fi
 if [ $sf = 4 ] || [ $sf = 4 ]
-clear
 then 
 git clone https://github.com/sqlmapproject/sqlmap.git
 cd sqlmap
@@ -104,4 +103,4 @@ python2 sqlmap.py
 echo "terinstall bos " | lolcat
 sleep 1
 exit
-fi
+fi 
