@@ -3,14 +3,14 @@
 
 figlet MR_XID  | lolcat
  
-echo                      " [======<>======<>======<>======]"|lolcat
-echo                      " [Author   :  MR_XiD            ]"|lolcat
-echo                      " [Team     : JATIM BLACKHAT     ]"|lolcat
-echo                      " [Note     : Jangan reqode ya   ]"|lolcat
-echo                      " [Thansk to: All member         ]"|lolcat
-echo                      " [thanks to: D35TR0Y SQUAD      ]"|lolcat
-echo                      " [Note2    : Copyright©MR_XID   ]"
-echo                      " [======<>======<>======<>======]"|lolcat
+echo                      " [•]===><===<>===><===<>===><===<>==><==[]"|lolcat
+echo                      " [•]Author   :  MR_XiD                  []"|lolcat
+echo                      " [•]Team     : JATIM BLACKHAT           []"|lolcat
+echo                      " [•]Note     : Jangan reqode ya         []"|lolcat
+echo                      " [•]Thansk to: All member               []"|lolcat
+echo                      " [•]thanks to: D35TR0Y SQUAD            []"|lolcat
+echo                      " [•]Note2    : Copyright©MR_XID 2018    []"
+echo                      " [•]===><==<>===><===<>===><===<>===><==[]"|lolcat
 
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
 echo    " 1. TOOLS ISLAM "
@@ -20,6 +20,8 @@ echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
 echo    " 3. HAMMER DDOS "
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo    " 4. SQL INJEK"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo.   " 5. SPAM WHATSAPP"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo    "╭─[PILIH NOMERNYA]"
 read -p "╰─root@./MR_XID=" sf;
@@ -101,6 +103,18 @@ git clone https://github.com/sqlmapproject/sqlmap.git
 cd sqlmap
 python2 sqlmap.py
 echo "terinstall bos " | lolcat
+fi 
+[ $sf = 5 ] || [ $sf = 5 ]
+then 
+Pkg update && pkg upgrade
+pkg install python2
+pkg install git
+git clone https://github.com/siputra12/prank
+cd prank
+pkg install php
 sleep 1
+php wa.php
+echo "terinstall cokkk "|lolcat
+fi 
 exit
 fi 
