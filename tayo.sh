@@ -115,6 +115,6 @@ pkg install php
 sleep 1
 php wa.php
 echo "terinstall cokkk "|lolcat
-fi 
+sleep
 exit
 fi 
