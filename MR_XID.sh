@@ -7,7 +7,7 @@ echo                      " [•]===><===<>===><===<>===><===<>==><==[]"|lolcat
 echo                      " [•]Author   :  MR_XiD                  []"|lolcat
 echo                      " [•]Team     : JATIM BLACKHAT           []"|lolcat
 echo                      " [•]Note     : Jangan reqode ya         []"|lolcat
-echo                      " [•]Thansk to: All member               []"|lolcat
+echo                      " [•]Thansk to: L4EFY                    []"|lolcat
 echo                      " [•]thanks to: D35TR0Y SQUAD            []"|lolcat
 echo                      " [•]Note2    : Copyright©MR_XID 2018    []"
 echo                      " [•]===><==<>===><===<>===><===<>===><==[]"|lolcat
@@ -28,7 +28,7 @@ echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo    " 7. Tool TUAN B4DUT V3"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo    "╭─[><]"
-read -p "╰─root@./MR_XID=" sf;
+read -p "╰─MR_XID>" sf;
 
 if [ $sf = 1 ] || [ $sf = 1 ]
 then
@@ -87,7 +87,7 @@ cd sqlmap
 python2 sqlmap.py
 echo "terinstall bos " | lolcat
 fi 
-[ $sf = 5 ] || [ $sf = 5 ]
+if [ $sf = 5 ] || [ $sf = 5 ]
 then 
 Pkg update && pkg upgrade
 pkg install python2
@@ -99,7 +99,7 @@ sleep 1
 php wa.php
 echo "terinstall cokkk "|lolcat
 fi
-[ $sf = 6 ] || [ $sf = 6 ]
+if [ $sf = 6 ] || [ $sf = 6 ]
 apt upgrade && apt update
 pkg install git lolcat
 git clone https://github.com/TUANB4DUT/DIR
@@ -108,7 +108,7 @@ chmod 777 dir.sh
 ./dir.sh
 echo "tidak semua website bisa " | lolcat
 fi 
-[ $sf = 7 ] || [ $sf = 7 ]
+if [ $sf = 7 ] || [ $sf = 7 ]
 pkg install python python2 vim figlet curl
 pkg install php 
 pip2 install lolcat 
