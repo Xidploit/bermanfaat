@@ -12,18 +12,22 @@ echo                      " [•]thanks to: D35TR0Y SQUAD            []"|lolcat
 echo                      " [•]Note2    : Copyright©MR_XID 2018    []"
 echo                      " [•]===><==<>===><===<>===><===<>===><==[]"|lolcat
 
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
-echo    " 1. TOOLS ISLAM "
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
+echo    " 1. Info tool "
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
 echo    " 2. BOM SPAM "   
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
 echo    " 3. HAMMER DDOS "
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo    " 4. SQL INJEK"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo.   " 5. SPAM WHATSAPP"
-echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo    "╭─[PILIH NOMERNYA]"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    " 5. SPAM WHATSAPP"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    " 6. New Tool TUAN B4DUT "
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    " 7. Tool TUAN B4DUT V3"
+echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
+echo    "╭─[><]"
 read -p "╰─root@./MR_XID=" sf;
 
 if [ $sf = 1 ] || [ $sf = 1 ]
@@ -31,11 +35,11 @@ then
 echo    "==========================="|lolcat
 echo    " 1. info tools "
 echo    "==========================="|lolcat
-echo    " 2. tanda tanda kiamat "
+echo    " 2. selengkapnya"
 echo    "===========================" | lolcat
-echo    " 3. pengertian hukum karma"
+echo    " 3. blog tutorial"
 echo    "===========================" | lolcat
-echo    "╭─[PILIH NOMERNYA]"
+echo    "╭─[>•<]"
 read -p "╰─root@./MR_XID=" fri;
 fi
 if [ $fri = 1 ] || [ $fri = 1 ]
@@ -52,35 +56,14 @@ echo "ELITE MUSLIM CYBER ARMY " | lolcat
 sleep 1
 fi 
 if [ $fri = 2 ] || [ $fri = 2 ]
-then
-echo " 1. Anak-anak menjadi penuh kemarahan "
-echo " - Dengan kata lain, mereka berani melawan orangtua mereka " | lolcat
-echo " - Mereka tidak segan-segan berkata kasar dan menghardik orangtua mereka " | lolcat
-sleep 2
-echo " 2. Hujan dapat membakar"
-echo "-Jika kita menganalisisnya, hal ini telah terjadi. Sekarang hujan asam semakin sering terjadi " | lolcat
-sleep 1
-echo " 3. Orang-orang jahat bertebaran di muka bumi. "
-sleep 1 
-echo "- sekarang banyak orang yang jahat " | lolcat
-echo "-di katakan dalam" | lolcat
-echo "-kebaikan dibalas dengan kejahatan" | lolcat
-echo " 4. Orang Berkhianat Dipercaya "
-echo "-Orang-orang akan mempercayai orang-orang yang berkhianat, sedangkan orang-orang yang dapat dipercaya dianggap sebagai pengkhianat." | lolcat
-echo " 5. sekian itu aja yang yang gua sampaikan dan tunggu update tools nya lagi "
+then 
+echo " itu aja bos  tunggu update tools nya lagi "
 fi 
 if [ $fri = 3 ] || [ $fri = 3 ]
 then
-echo " pengertian hukum karma bagi islam " | lolcat
-sleep 3
-echo "1.Merupakan hukum sebab-akibat, ada aksi dan ada reaksi. Jika berbuat baik, maka akan mendapat balasan baik, jika berbuat buruk maka akan mendapatkan balasan buruk juga "
-sleep 3
-echo "2.Menebak hal ghaib, semisal menebak bahwa engkau mendapatkan hal buruk ini karena perbuatan burukmu yang itu (disebutkan perbuatannya) "
-sleep 3
-echo "itulah hukum karma bagi islam "
-sleep 1
-echo "sekian Asalamualaikum"
-fi 
+echo " copas link di bawah ini " | lolcat
+echo "http://destroysquad.blogspot.com "
+fi
 if [ $sf = 2 ] || [ $sf = 2 ]
 then 
 git clone https://github.com/4L13199/LITESPAM
@@ -115,6 +98,25 @@ pkg install php
 sleep 1
 php wa.php
 echo "terinstall cokkk "|lolcat
-sleep
+fi
+[ $sf = 6 ] || [ $sf = 6 ]
+apt upgrade && apt update
+pkg install git lolcat
+git clone https://github.com/TUANB4DUT/DIR
+cd DIR
+chmod 777 dir.sh
+./dir.sh
+echo "tidak semua website bisa " | lolcat
+fi 
+[ $sf = 7 ] || [ $sf = 7 ]
+pkg install python python2 vim figlet curl
+pkg install php 
+pip2 install lolcat 
+pkg install git 
+git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
+cd TOOLSINSTALLERv3
+sleep 1
+sh TUANB4DUT.sh
+sleep 1
 exit
 fi 
