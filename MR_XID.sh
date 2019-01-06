@@ -5,27 +5,27 @@ figlet MR_XID  | lolcat
  
 echo                      " [•]===><===<>===><===<>===><===<>==><==[]"|lolcat
 echo                      " [•]Author   :  MR_XiD                  []"|lolcat
-echo                      " [•]Team     : JATIM BLACKHAT           []"|lolcat
-echo                      " [•]Note     : Jangan reqode ya         []"|lolcat
+echo                      " [•]Wa       :  083851312460            []"|lolcat
+echo                      " [•]thanks to: I T A                    []"|lolcat
 echo                      " [•]Thansk to: L4EFY                    []"|lolcat
 echo                      " [•]thanks to: D35TR0Y SQUAD            []"|lolcat
 echo                      " [•]Note2    : Copyright©MR_XID 2018    []"
 echo                      " [•]===><==<>===><===<>===><===<>===><==[]"|lolcat
 
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
-echo    " 1. Info tool "
+echo    " (1. Info tool "
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
-echo    " 2. BOM SPAM "   
+echo    " (2. BOM SPAM "   
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
-echo    " 3. HAMMER DDOS "
+echo    " (3. HAMMER DDOS "
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo    " 4. SQL INJEK"
+echo    " (4. SQL INJEK"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo    " 5. SPAM WHATSAPP"
+echo    " (5. SPAM WHATSAPP"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo    " 6. New Tool TUAN B4DUT "
+echo    " (6. New Tool TUAN B4DUT "
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
-echo    " 7. Tool TUAN B4DUT V3"
+echo    " (7. Tool TUAN B4DUT V3"
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>"|lolcat
 echo    "╭─[><]"
 read -p "╰─MR_XID>" sf;
@@ -100,6 +100,7 @@ php wa.php
 echo "terinstall cokkk "|lolcat
 fi
 if [ $sf = 6 ] || [ $sf = 6 ]
+then 
 apt upgrade && apt update
 pkg install git lolcat
 git clone https://github.com/TUANB4DUT/DIR
@@ -109,6 +110,7 @@ chmod 777 dir.sh
 echo "tidak semua website bisa " | lolcat
 fi 
 if [ $sf = 7 ] || [ $sf = 7 ]
+then 
 pkg install python python2 vim figlet curl
 pkg install php 
 pip2 install lolcat 
