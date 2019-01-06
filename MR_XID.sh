@@ -1,5 +1,89 @@
-#mau reqod
-#malulah dengan dirimu
+#mau reqod hubungi pemilik toola
+#wa :083851312460
+#update 6 January 2019
+
+clear
+echo "starting tools... /";
+sleep 0.1;
+clear
+echo 'Starting tools... -';
+sleep 0.1;
+clear
+echo 'sTarting tools... \';
+sleep 0.1;
+clear
+echo "stArting tools... /";
+sleep 0.1;
+clear
+echo 'staRting tools... -';
+sleep 0.1;
+clear
+echo 'starTing tools... \';
+sleep 0.1;
+clear
+echo "startIng tools... /";
+sleep 0.1;
+clear
+echo "startiNg tools... -";
+sleep 0.1;
+clear
+echo 'startinG tools... \';
+sleep 0.1;
+clear
+echo 'starting Tools... -';
+sleep 0.1;
+clear
+echo "starting tOols... /";
+sleep 0.1;
+clear
+echo 'starting toOls... -';
+sleep 0.1;
+clear
+echo 'starting tooLs... \';
+sleep 0.1;
+clear
+echo "starting toolS... /";
+sleep 0.1;
+clear
+echo "starting tools... /";
+sleep 0.1;
+clear
+echo 'Starting tools... -';
+sleep 0.1;
+clear
+echo 'sTarting tools... \';
+sleep 0.1;
+clear
+echo "stArting tools... /";
+sleep 0.1;
+clear
+echo 'staRting tools... -';
+sleep 0.1;
+clear
+echo 'starTing tools... \';
+sleep 0.1;
+clear
+echo "startIng tools... /";
+sleep 0.1;
+clear
+echo "startiNg tools... -";
+sleep 0.1;
+clear
+echo 'startinG tools... \';
+sleep 0.1;
+clear
+echo 'starting Tools... -';
+sleep 0.1;
+clear
+echo "starting tOols... /";
+sleep 0.1;
+clear
+echo 'starting toOls... -';
+sleep 0.1;
+clear
+echo 'starting tooLs... \';
+sleep 0.1;
+clear
 
 figlet MR_XID  | lolcat
  
@@ -12,6 +96,16 @@ echo                      " [•]thanks to: D35TR0Y SQUAD            []"|lolcat
 echo                      " [•]Note2    : Copyright©MR_XID 2018    []"
 echo                      " [•]===><==<>===><===<>===><===<>===><==[]"|lolcat
 
+sleep 2
+python2 password.py
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+sleep 1
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
 echo    " (1. Info tool "
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
