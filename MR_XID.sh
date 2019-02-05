@@ -3,87 +3,26 @@
 #update 6 January 2019
 
 clear
-echo "starting tools... /";
-sleep 0.1;
+echo "tunggu sebentar" | lolcat
+echo "███"
+sleep 5
+echo "████"
+sleep 2
+echo "█████"
+sleep 2
+echo "██████"
+sleep 2
+echo "███████"
+sleep 2
+echo "████████"
+sleep 2
+echo "█████████"
+sleep 2
+echo "██████████
 clear
-echo 'Starting tools... -';
-sleep 0.1;
-clear
-echo 'sTarting tools... \';
-sleep 0.1;
-clear
-echo "stArting tools... /";
-sleep 0.1;
-clear
-echo 'staRting tools... -';
-sleep 0.1;
-clear
-echo 'starTing tools... \';
-sleep 0.1;
-clear
-echo "startIng tools... /";
-sleep 0.1;
-clear
-echo "startiNg tools... -";
-sleep 0.1;
-clear
-echo 'startinG tools... \';
-sleep 0.1;
-clear
-echo 'starting Tools... -';
-sleep 0.1;
-clear
-echo "starting tOols... /";
-sleep 0.1;
-clear
-echo 'starting toOls... -';
-sleep 0.1;
-clear
-echo 'starting tooLs... \';
-sleep 0.1;
-clear
-echo "starting toolS... /";
-sleep 0.1;
-clear
-echo "starting tools... /";
-sleep 0.1;
-clear
-echo 'Starting tools... -';
-sleep 0.1;
-clear
-echo 'sTarting tools... \';
-sleep 0.1;
-clear
-echo "stArting tools... /";
-sleep 0.1;
-clear
-echo 'staRting tools... -';
-sleep 0.1;
-clear
-echo 'starTing tools... \';
-sleep 0.1;
-clear
-echo "startIng tools... /";
-sleep 0.1;
-clear
-echo "startiNg tools... -";
-sleep 0.1;
-clear
-echo 'startinG tools... \';
-sleep 0.1;
-clear
-echo 'starting Tools... -';
-sleep 0.1;
-clear
-echo "starting tOols... /";
-sleep 0.1;
-clear
-echo 'starting toOls... -';
-sleep 0.1;
-clear
-echo 'starting tooLs... \';
-sleep 0.1;
-clear
+sleep 3
+echo "berhasil install"
+echo 
 
 figlet MR_XID  | lolcat
  
