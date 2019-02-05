@@ -4,27 +4,23 @@
 
 clear
 echo "tunggu sebentar" | lolcat
-echo "███"
+echo "████████████"
 sleep 5
-echo "████"
+echo "█████████████"
 sleep 2
-echo "█████"
+echo "██████████████"
 sleep 2
-echo "██████"
+echo "███████████████"
 sleep 2
-echo "███████"
+echo "████████████████"
 sleep 2
-echo "████████"
+echo "█████████████████"
 sleep 2
-echo "█████████"
+echo "██████████████████"
 sleep 2
-echo "██████████
-clear
+echo "███████████████████"
 sleep 3
-echo "berhasil install"
-echo 
-
-figlet MR_XID  | lolcat
+figlet "MR_XID"  | lolcat
  
 echo                      " [•]===><===<>===><===<>===><===<>==><==[]"|lolcat
 echo                      " [•]Author   :  MR_XiD                  []"|lolcat
